@@ -155,6 +155,10 @@ namespace GSM.Common
             {
                 throw new ArgumentException("Invalid phone!");
             }
+            else if (newCall.Duration < 0)
+            {
+                throw new ArgumentException("Invalid call duration!");
+            }
             else
             {
                 CallHistory.Add(newCall);
