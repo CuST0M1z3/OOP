@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSM.Common", "GSM.Common\GSM.Common.csproj", "{272EF8AE-6298-4F7C-83D0-0819184C04A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMTest", "GSMTest\GSMTest.csproj", "{6166EBD9-D820-423C-97C1-805B7CC3C4F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272EF8AE-6298-4F7C-83D0-0819184C04A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272EF8AE-6298-4F7C-83D0-0819184C04A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272EF8AE-6298-4F7C-83D0-0819184C04A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272EF8AE-6298-4F7C-83D0-0819184C04A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6166EBD9-D820-423C-97C1-805B7CC3C4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6166EBD9-D820-423C-97C1-805B7CC3C4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6166EBD9-D820-423C-97C1-805B7CC3C4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6166EBD9-D820-423C-97C1-805B7CC3C4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
